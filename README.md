@@ -1,9 +1,3 @@
 # matplotlib-challenge
 
-## Oberservation #1
-
-
-## Obverservation #2
-
-
-## Oberservation #3
+# All asignements complete. Please see three observations in the pymaceuticals_homework.ipynb file.
